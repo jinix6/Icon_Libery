@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>jinxx66</title>
+    <style>
+      .background {
+        background-image: url(background.png);
+        background-position-x: -220px;
+        background-size: 200%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100vh;
+        position: fixed;
+        z-index: -1;
+      }
+      .scroller {
+        overflow-y: hidden;
+        overflow-x: scroll;
+      }
+    </style>
+</head>
+<body>
+  <div class="background">
+    
+  </div>
+  
+  <div class="scroller">
+       <div id="pagination-container" class="center"></div>
+  </div>
+   
+      
+      
+  <div class="center">
+    <input  type="text" id="search-input" placeholder="Search by Name">
+    </div>
+    
+     <input type="number" id="results-limit-input" placeholder="Results Limit" value="20">
+    
+    <div id="gallery-container"></div>
+  
+    <script src="script.js"></script>
+</body>
+</html>
