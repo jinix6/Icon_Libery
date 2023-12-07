@@ -106,6 +106,7 @@ function showPopup(fileName, imageUrl) {
                 const filteredImages = fileNames.filter((imageName) =>
                     imageName.toLowerCase().includes(searchTerm)
                 );
+                filteredImages.sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
                 displayGallery(filteredImages, currentPage);
             })
             .catch((error) => {
@@ -141,3 +142,11 @@ function showPopup(fileName, imageUrl) {
    
     fetchAndDisplayGallery();
 });
+
+function neidndnsj(){
+  document.getElementById("kdkdjzj").style.animation ="dialog1hide 250ms 1 forwards";
+}
+
+
+document.getElementById("kdkdjzj").style.animation ="dialog1show 250ms 1 forwards";
+  

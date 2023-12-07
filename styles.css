@@ -35,7 +35,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgba(70,98,145,0.312);
+    background-color: rgba(70,98,145,0.6);
     padding: 20px;
     border: 2px solid #6580C1;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -147,3 +147,95 @@ button{
     #results-limit-input{
       display: none;
     }
+    
+    .jusjxjhh {
+  height: 100%;
+  width: 100%;
+  background: rgba(15, 23, 42, 0.9);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  visibility: hidden;
+  touch-action: none;
+  z-index: 99999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wjsjhs {
+  background: #253251;
+  height: auto;
+  width: 90%;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+.djdndn {
+  color: #c7d7ff;
+  
+  color: #c7d7ff;
+  font-size: 150%;
+}
+
+
+@keyframes dialog1hide {
+  from {
+    opacity: 1;
+    visibility: visible;
+  }
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+@keyframes dialog1show {
+  from {
+    opacity: 0;
+    visibility: visible;
+  }
+  to {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+.djdndn{
+  text-align: center;
+}
+
+
+
+.link{
+  
+}
+
+.scroller{
+  margin: 20px;
+}
+.ejeijej{
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.img2 {
+  width: 35%;
+  margin: 0px;
+  margin-top: 3%;
+  margin-left: 3%;
+  padding: 0px;
+}
+.tg{
+  width: 5%;
+  margin-top: 3%;
+}
+.ig{
+  margin-left: 3%;
+  width: 5%;
+  margin-top: 3%;
+  
+}
+.gap_1{
+  width: 45%;
+}
