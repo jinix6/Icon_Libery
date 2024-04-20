@@ -7401,3 +7401,188 @@
 904044005,unnamed,Icon_Bag_Jeans
 904044006,unnamed,Icon_Bag_Capybara
 904044007,unnamed,Icon_Bag_Festivalme_24
+907001812, Blood Hockey, Icon_GlooShield_Hockeygoalie
+907001814, Spirit, Icon_GlooShield_Spirit
+907001916, Aurous Dragon, Icon_GlooShield_Cnnewyear19
+907010049, Bunker, Icon_GlooShield_bunker_ao
+907010050, FFWC, Icon_GlooShield_FFWorldCup
+907101812, Blood Hockey, Icon_GlooShield_Hockeygoalie
+907101814, Spirit, Icon_GlooShield_Spirit
+907101916, Aurous Dragon, Icon_GlooShield_Cnnewyear19
+907102028, Nuclear Bunker, Icon_GlooShield_Nuclear
+907102029, Volcanic Fury, Icon_GlooShield_Ichitan
+907102125, Spikey Spine, Icon_GlooShield_Spine
+907102126, Ancient Order, Icon_GlooShield_Royalguard_Preorder
+907102128, Taunting Dino, Icon_GlooShield_Sneerdino
+907102130, Dragon Seal, Icon_GlooShield_Dragonseal
+907102235, Death Guardian, Icon_GlooShield_Faimplague2
+907102236, Rebel Academy, Icon_GlooShield_College
+907102327, Hysteria, Icon_GlooShield_Gemini
+907102328, Plan Bermuda, Icon_GlooShield_Jumpsuit
+907102442, Gate to Oblivion, Icon_GlooShield_Impermanence
+907102443, Booyah Day, Icon_GlooShield_Booyahday
+907102444, Swordsman Legends, Icon_GlooShield_Warringstates
+907102445, Day of the Dead, Icon_GlooShield_Sugarskull
+907102446, Happy Shiba, Icon_GlooShield_Cuteshiba
+907102540, Justice Fighter, Icon_GlooShield_SwatGuy
+907102541, Chrono, Icon_GlooShield_Bounty
+907102542, One Punch Man, Icon_GlooShield_Megapunch
+907102543, Winterlands 2020, Icon_GlooShield_Winterfest2020
+907102640, Cobra Strike, Icon_GlooShield_Cobra
+907102641, Netherworld Troops, Icon_GlooShield_Flamingarmy
+907102642, Angel Wings, Icon_GlooShield_Angelical
+907102643, Matryoshka Doll, Icon_GlooShield_Matryoshka
+907102644, Power of Love, Icon_GlooShield_Valentine2021
+907102645, Superstar, Icon_GlooShield_Superstar
+907102646, Hayato the Guardian, Icon_GlooShield_Cola
+907102742, Ultra Voltage, Icon_GlooShield_Thunder
+907102743, Freezing Flame, Icon_GlooShield_Fireskull
+907102744, Gold Mine, Icon_GlooShield_Goldwall
+907102745, Disco Fiasco, Icon_GlooShield_Waterfest21
+907102746, Shamrock Explosion, Icon_GlooShield_Fastbreaking
+907102839, Stormbringer, Icon_GlooShield_Foursymbols
+907102840, Sauce Swagger, Icon_GlooShield_Fallwinter
+907102841, Ryu, Icon_GlooShield_Sutorito_ONE
+907102842, Chun-Li, Icon_GlooShield_Sutorito_TWO
+907102843, Victory Charge, Icon_GlooShield_Supercar_A
+907102943, Thrash Metallic, Icon_GlooShield_Musicfest
+907102944, Glo Technica, Icon_GlooShield_Mocomonth
+907102945, Floral Kill, Icon_GlooShield_BRninja
+907102946, Ferocious Ink, Icon_GlooShield_THfact
+907102947, Demonic Grin, Icon_GlooShield_Asianoni
+907103038, Pinky Kitten, Icon_GlooShield_Petswall
+907103039, Phantom Predator, Icon_GlooShield_Soulhunter
+907103040, Skull Punker, Icon_GlooShield_Evilrhythm
+907103041, Floral Tribute, Icon_GlooShield_Sugarskull21
+907103042, Stick No Bills, Icon_GlooShield_Lightfest
+907103043, BOOYAH DAY 2021, Icon_GlooShield_Booyahday21
+907103147, Pink Wink, Icon_GlooShield_VNspace
+907103148, Angel with Horns, Icon_GlooShield_Winterfest21
+907103149, Heatbound Desert, Icon_GlooShield_Eagle
+907103150, Imprinted Trap, Icon_GlooShield_RUmusician
+907103151, Night Scouter, Icon_GlooShield_THagent
+907103153, Gloowall- Gold Vault, Icon_GlooShield_Jumpsuit2
+907103243, Splash of Colors, Icon_GlooShield_Colorfest
+907103244, Venum, Icon_GlooShield_Luchalibre2
+907103245, Vibrant Peak, Icon_GlooShield_PKmount
+907103246, Festive Growl, Icon_GlooShield_VNnewyear
+907103247, Brassy Core, Icon_GlooShield_Hurricane_1
+907103248, Aurora Core, Icon_GlooShield_Hurricane_2
+907103249, Burger Bang, Icon_GlooShield_Junkfood
+907103250, Frozen Platinum, Icon_GlooShield_Dunhuang
+907103251, Choco Booster, Icon_GlooShield_Chocolate
+907103346, Haven Guardian, Icon_GlooShield_FFWS03
+907103347, Rave Skater, Icon_GlooShield_Waterfest22
+907103348, Crazy Look Wall, Icon_GlooShield_Luchalibre2_1
+907103349, Emerald Bloom, Icon_GlooShield_Fastbreaking22
+907103350, Divinity Blast, Icon_GlooShield_Goldenwings
+907103351, Burning Lily, Icon_GlooShield_Spiderlily
+907103352, Bonebruiser Scorch, Icon_GlooShield_Lion_Red
+907103353, Buried Purpledust, Icon_GlooShield_Undertaker
+907103354, Winter Waggor, Icon_GlooShield_Mshop
+907103355, Deceptive Fearless, Icon_GlooShield_Boyband
+907103442, Color Vibes, Icon_GlooShield_Rhythmgirl
+907103443, Electro Burn, Icon_GlooShield_Rampage4_Orangeplus
+907103444, Cloud of Fear, Icon_GlooShield_Rampage4_Orangeplus01
+907103445, Aqua Rogue, Icon_GlooShield_Rampage4
+907103446, Torn Angel, Icon_GlooShield_Angel_Br
+907103447, Fighter Art, Icon_GlooShield_Festival_ME
+907103448, Digi Smiley, Icon_GlooShield_BIS
+907103449, Arcade Fun, Icon_GlooShield_Superplayer
+907103450, Gray Ambush, Icon_GlooShield_Guerrilla
+907103452, Carmine Ghost, Icon_GlooShield_Greenghost_Hand
+907103543, Universe Shatter, Icon_GlooShield_Digitaluniverse
+907103544, Top Criminal, Icon_GlooShield_Digitaluniverse_Tc
+907103545, Binary Call, Icon_GlooShield_Digitaluniverse_01
+907103546, Investigator Scout, Icon_GlooShield_Journalists
+907103547, Crack of Dawn, Icon_GlooShield_Light_Darkness
+907103548, M6< Jolly Lorry, Icon_GlooShield_Festival22_PK
+907103549, Sand Castle, Icon_GlooShield_Beach_VN
+907103550, Biebs Mural, Icon_GlooShield_Singers
+907103554, Dragon Bite, Icon_GlooShield_Flamedragon
+907103555, Spook Crow, Icon_GlooShield_Crow
+907103739, Galactic Protection, Icon_GlooShield_FFWS2029
+907103740, Cannibal Nightmare, Icon_GlooShield_Winterfest22
+907103741, Navy Starsea, Icon_GlooShield_FFWS2022_01
+907103742, Golden Angel, Icon_GlooShield_Angelik
+907103743, Future Flex, Icon_GlooShield_Westernhunter
+907103744, Steady Goal, Icon_GlooShield_BRSoccer
+907103745, Animal Rascal, Icon_GlooShield_Childrensday22
+907103746, Floral Flair, Icon_GlooShield_Culture_VN
+907103747, Mischief Town, Icon_GlooShield_Emoji
+907103749, Venom Rush, Icon_GlooShield_Scorpion22
+907103841, Kitsune Kami, Icon_GlooShield_Eldergods
+907103842, Achiever, Icon_GlooShield_Goal_01
+907103843, Sickly Sweet, Icon_GlooShield_Valentine23
+907103844, Blizzard Brawl, Icon_GlooShield_Skisuit
+907103845, Technojoy, Icon_GlooShield_Colorfest23
+907103846, Meadow, Icon_GlooShield_PK_Green
+907103847, PopPow, Icon_GlooShield_ES
+907103848, Candy Bunny, Icon_GlooShield_VN_Rabbit
+907103849, Voidborne, Icon_GlooShield_MO
+907103850, Immortal Ignition, Icon_GlooShield_Firedragon
+907103851, Immortal Kindle, Icon_GlooShield_Firedragon_01
+907103855, Project Q, Icon_GlooShield_Cybermech
+907103857, Ruins Colossus, Icon_GlooShield_Gargoyle
+907103949, Weathered Runestone, Icon_GlooShield_Growth
+907103950, Scorpio, Icon_GlooShield_Scarlet_1
+907103951, Scorpio Vine, Icon_GlooShield_Scarlet_2
+907103952, Ecstatic Explosion, Icon_GlooShield_Thug
+907103953, Festiwall, Icon_GlooShield_BDFest
+907103954, Desert Reptile, Icon_GlooShield_Fastbreaking23
+907103955, Bouncy Igloo, Icon_GlooShield_Waterfest23
+907103956, Cyberdelic, Icon_GlooShield_Selected
+907103957, OGSuperhero, Icon_GlooShield_Comic
+907104043, Spot On Tapestry, Icon_GlooShield_Aim
+907104044, Sonorous Heart, Icon_GlooShield_Speed
+907104045, Justice Glow, Icon_GlooShield_Angelik_01
+907104046, T.R.A.P. Chromawave, Icon_GlooShield_Traphiphop22_Orange
+907104048, Miraculous Dream, Icon_GlooShield_Unicon22
+907104049, Electrify Bunny, Icon_GlooShield_Festivalme_22
+907104050, Midnight Breathkeeper, Icon_GlooShield_Darkskeleton
+907104051, Thunderbolt Marauder, Icon_GlooShield_Raiden
+907104052, Gate to Sanctuary, Icon_GlooShield_Densho
+907104072, Metallic Hero, Icon_GlooShield_Silverwall
+907104077, Wall of Calm, Icon_GlooShield_Cricketguy
+907104120, Reelblade Bastion, Icon_GlooShield_Fisherman
+907104121, Ink Screen, Icon_GlooShield_Inkpainting
+907104122, Little Monster, Icon_GlooShield_Monsterjacket
+907104123, Free Cracker!, Icon_GlooShield_Festival_ID
+907104124, Bony Memorial, Icon_GlooShield_Sugarskull23
+907104125, Golden Hero, Icon_GlooShield_Goldwall_New
+907104140, Tanjiro Style, Icon_GlooShield_DS_green
+907104207, Interstellar Guardian, Icon_GlooShield_Watcher
+907104208, Feline's Blessing, Icon_GlooShield_Smudge
+907104209, Frostfire Keeper, Icon_GlooShield_Theboy
+907104210, Tiger's Fury, Icon_GlooShield_Evotiger
+907104211, Cyber Tank, Icon_GlooShield_Cybergrenade
+907104212, The "90" Guard, Icon_GlooShield_Level90
+907104213, Top Criminal (Ghost), Icon_GlooShield_Jumpsuit_Ghosts
+907104214, The Lamborghini Shield, Icon_GlooShield_Bull
+907104344, Crystal Citadel, Icon_GlooShield_Pointed
+907104345, Wrathful Resistance, Icon_GlooShield_Asura
+907104346, Inner Whisper, Icon_GlooShield_Evilbehind
+907104347, Emperor's Curtain, Icon_GlooShield_Aprilfool24
+907104348, Dragon Shield, Icon_GlooShield_VNnewyear24
+907104349, Bam, Icon_GlooShield_Waterfest24
+907104350, Glistening Nightstar, Icon_GlooShield_Fastbreaking24
+907104351, FFML, Icon_GlooShield_ML24
+907104352, Superstar Bus, Icon_GlooShield_Singergirl
+907104437, Blitz Breaker, Icon_GlooShield_Fragment
+907104438, Infinite Paradox, Icon_GlooShield_Persona
+907104439, Protection-o'-the-Wisp, Icon_GlooShield_Onimusha
+907104440, The One, Icon_GlooShield_Chosen
+907104441, Genetic Defense, Icon_GlooShield_Gene
+907136098, Nutty Quirk, Icon_GlooShield_Griza
+907136099, Potential, Icon_GlooShield_VB
+907136100, Wicked Red, Icon_GlooShield_Ghostface
+907136101, Bones of Terror, Icon_GlooShield_Halloween22
+907136102, Roaring Protector, Icon_GlooShield_Lightfest22
+907136103, Protection Offering, Icon_GlooShield_Sugarskull22
+907136104, Wooden Cabin, Icon_GlooShield_Logcabin
+907136105, Winter Shiba, Icon_GlooShield_Shiba_G
+907136106, Victory Wall, Icon_GlooShield_CAteam
+907136107, Underground Viper, Icon_GlooShield_Underground
+907201812, Blood Hockey, Icon_GlooShield_Hockeygoalie
+907201814, Spirit, Icon_GlooShield_Spirit
+907201916, Aurous Dragon, Icon_GlooShield_Cnnewyear19
