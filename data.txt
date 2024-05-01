@@ -7586,32 +7586,32 @@
 907201812, Blood Hockey, Icon_GlooShield_Hockeygoalie
 907201814, Spirit, Icon_GlooShield_Spirit
 907201916, Aurous Dragon, Icon_GlooShield_Cnnewyear19
-907103031,unnamed,Icon_Fist_Booyahday21
-907103430,unnamed,Icon_Fist_Rampage4
-907103935,unnamed,Icon_Fist_Scarlet
-907104034,unnamed,Icon_Fist_Unicon22
-907104201,unnamed,Icon_Fist_Theboy
-907104333,unnamed,Icon_Fist_Bubbles
-907136092,unnamed,Icon_Fist_Lightfest22
-907136108,unnamed,Icon_Fist_Meteorite
-907102733,unnamed,Icon_FIST_Boxer
-907102801,unnamed,Icon_FIST_Thunder
-907102828,unnamed,Icon_FIST_Foursymbols
-907102931,unnamed,Icon_FIST_Musicfest
-907102932,unnamed,Icon_FIST_Mocomonth
-907103138,unnamed,Icon_FIST_Soulhunter
-907103139,unnamed,Icon_FIST_Winterfest21
-907103237,unnamed,Icon_FIST_Hoodedkiller
-907103340,unnamed,Icon_FIST_Luchalibre2
-907103536,unnamed,Icon_FIST_Digitaluniverse
-907103728,unnamed,Icon_FIST_Winterfest22
-907103829,unnamed,Icon_FIST_Goal
-907193601,unnamed,Icon_FIST_FFWS2022_01
-907193702,unnamed,Icon_FIST_FFWS2022_02
-907193703,unnamed,Icon_FIST_FFWS2022_02
-907193704,unnamed,Icon_FIST_FFWS2022_02
-907193705,unnamed,Icon_FIST_FFWS2022_03
-907300001,unnamed,Icon_FIST_FIRE
-907300002,unnamed,Icon_FIST_ICE
-907300003,unnamed,Icon_FIST_Megapunch
-907300004,unnamed,Icon_FIST_Cobra
+907103031, Bone, Icon_Fist_Booyahday21
+907103430, Hybrid Power Punch, Icon_Fist_Rampage4
+907103935, Scorpio Grasp, Icon_Fist_Scarlet
+907104034, Miraculous, Icon_Fist_Unicon22
+907104201, Frostfire Punch, Icon_Fist_Theboy
+907104333, Bubbly Waves, Icon_Fist_Bubbles
+907136092, Claws of Fury, Icon_Fist_Lightfest22
+907136108, Meteor Punch, Icon_Fist_Meteorite
+907102733, KO, Icon_FIST_Boxer
+907102801, Lightning, Icon_FIST_Thunder
+907102828, Mythos, Icon_FIST_Foursymbols
+907102931, Fist Bump, Icon_FIST_Musicfest
+907102932, Pixel Punch, Icon_FIST_Mocomonth
+907103138, Phantom, Icon_FIST_Soulhunter
+907103139, Frozen Flame, Icon_FIST_Winterfest21
+907103237, Dagger Punch, Icon_FIST_Hoodedkiller
+907103340, Ember, Icon_FIST_Luchalibre2
+907103536, Limitless Punch, Icon_FIST_Digitaluniverse
+907103728, Thunderboom, Icon_FIST_Winterfest22
+907103829, Ultimate Achiever, Icon_FIST_Goal
+907193701, Drachen, Icon_FIST_FFWS2022_01
+907193702, Drachen, Icon_FIST_FFWS2022_02
+907193703, Drachen, Icon_FIST_FFWS2022_02
+907193704, Drachen, Icon_FIST_FFWS2022_02
+907193705, Drachen, Icon_FIST_FFWS2022_03
+907300001, Flaming, Icon_FIST_FIRE
+907300002, Hailstone, Icon_FIST_ICE
+907300003, Mighty, Icon_FIST_Megapunch
+907300004, Cobra, Icon_FIST_Cobra
